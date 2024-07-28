@@ -1,0 +1,35 @@
+.circle {
+    width: 40px;
+    height: 40px;
+    margin-left: 2%;
+    margin-top: 2%;
+    background-color: #333;
+   
+    background-size:cover;
+    background-postion: center;
+    border-radius: 100px;
+  }
+  .auther {
+
+    width: 40px;
+    height: 40px;
+    margin-left: 14%;
+    margin-top: -5%;
+    text-emphasis: none;
+    text-align: justify;
+    
+    
+  }
+
+  .card-body {
+    text-align: center;
+  }
+  
+  .card-title {
+    font-size: 1.25rem;
+  }
+  
+  .card-text {
+    font-size: 1rem;
+  }
+  
